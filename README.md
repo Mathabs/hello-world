@@ -1,2 +1,3 @@
 # hello-world
-Just a basic repository
+
+This is a basic repository. We gonna use it for stuff
